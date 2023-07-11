@@ -1,0 +1,199 @@
+body{
+    margin: 0;
+}
+
+.first{
+    background-color: #FCEEF1;
+    padding-left: 30px;
+    width: 97%;
+    display: flex;
+
+}
+
+.second{
+    width: 398px;
+    margin-left: 120px;
+    margin-top: 100px;
+}
+
+.FirstHeading{
+    font-size: 50px;
+    font-weight: bold;
+    color: #000000;
+    text-align: left;
+    margin-bottom: 0px;
+
+}
+
+.firstPara{
+    color: #847F80;
+    margin-bottom: 0px;
+}
+
+.firstBtn{
+    background-color: #E55473;
+    border: none;
+    border-radius: 5px;
+    padding: 13px 25px 13px 25px;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+
+.firstImage{
+    width: 30%;
+    margin-left: 150px;
+    margin-top: 40px;
+}
+
+.secondHeading{
+    font-size: 25px;
+    width: 286px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    margin-bottom: 0px;
+}
+
+.secondPara{
+    width: 471px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 13px;
+    color: #847F80;
+    text-align: center;
+}
+
+.fourth{
+    background-color: #FEF6F8;
+    padding-left: 30px;
+    width: 97%;
+    display: flex;
+}
+
+.fifth{
+    width: 398px;
+    margin-left: 120px;
+    margin-top: 150px;
+}
+
+.thirdHeading{
+    font-size: 25px;
+    font-weight: bold;
+    color: #000000;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.thirdPara{
+    color: #847F80;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+.secondImage{
+    width: 20%;
+    margin-left: 150px;
+    margin-top: 40px;
+}
+
+.firstSpan{
+    color: red;
+}
+
+.secondBtn{
+    display: block;
+    background-color: #E55473;
+    border: none;
+    border-radius: 5px;
+    padding: 13px 25px 13px 25px;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fourthHeading{
+    font-size: 25px;
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    margin-bottom: 0px;
+}
+
+.seventh{
+    display: flex;
+    padding-left: 120px;
+}
+
+#thirdImage{
+    width: 200px;
+    margin: 20px;
+}
+
+#fourthImage{
+    width: 200px;
+    margin: 20px;
+}
+
+#fifthImage{
+    width: 200px;
+    margin: 20px;
+}
+
+#sixthImage{
+    width: 200px;
+    margin: 20px;
+}
+
+.eighth{
+    margin-top: 50px;
+    margin-left: 130px;
+    position: relative;
+}
+
+.seventhImage{
+    width: 82%;
+}
+
+.fifthHeading{
+    position: absolute;
+  top: 50%;
+  left: 33%;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.fourthPara{
+    color: #847F80;
+    position: absolute;
+  top: 100%;
+  left: 15%;
+  font-size: 13px;
+}
+
+.firstInput{
+    position: absolute;
+  top: 162%;
+  left: -56%;
+}
+
+.thirdBtn{
+    position: absolute;
+  top: 31%;
+  left: 208%;
+}
+
+.SecondInput{
+    width: 192%;
+    border: none;
+    padding: 10px;
+}
